@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Shopping Page</string>
+    <string name="Return">Return</string>
+    <string name="tomoto_explanation">Fresh tomato</string>
+    <string name="purchase">purchase</string>
+    <string name="result">You purchased a Tomato</string>
+</resources>

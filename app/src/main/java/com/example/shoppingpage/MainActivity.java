@@ -30,8 +30,14 @@ public class MainActivity extends AppCompatActivity {
             //Intent intent = new Intent(getApplication(), SubActivity.class);
             //startActivity(intent);
 
-
-
+        ImageButton imageButton2 = findViewById(R.id.imageButton2);
+        imageButton2.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(getApplication(), SubActivity2.class);
+                startActivity(intent);
+            }
+        });
     }
 }
 

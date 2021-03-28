@@ -10,7 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ShoppingPage">
         <activity android:name=".SubActivity" />
-        <activity android:name=".MoneyActivity"/>
+        <activity android:name=".SubActivity2"/>
+        <activity android:name=".MoneyActivity2"/>
+        <activity android:name=".MoneyActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

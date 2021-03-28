@@ -4,4 +4,6 @@
     <string name="tomoto_explanation">Fresh tomato</string>
     <string name="purchase">purchase</string>
     <string name="result">You purchased a Tomato</string>
+    <string name="pota_ex">HOKU HOKU NO POTATO</string>
+    <string name="result_2">You purchased a poato</string>
 </resources>

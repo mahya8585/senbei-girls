@@ -1,4 +1,4 @@
-package com.example.shoppingpage;
+package com.example.smileComchase;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -13,13 +13,13 @@ public class MoneyActivity2 extends AppCompatActivity {
     protected void onCreate(Bundle saveInstanceState) {
         super.onCreate(saveInstanceState);
 
-        setContentView(R.layout.activity_money_2);
+        setContentView(R.layout.activity_money2);
 
         Button return_2 = findViewById(R.id.return_4);
         return_2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(getApplication(), MainActivity.class);
+                Intent intent = new Intent(getApplication(), VegeListActivity.class);
                 startActivity(intent);
             }
         });

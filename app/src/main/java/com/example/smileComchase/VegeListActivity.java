@@ -1,4 +1,4 @@
-package com.example.shoppingpage;
+package com.example.smileComchase;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -8,18 +8,18 @@ import android.view.View;
 import android.widget.ImageButton;
 
 
-public class MainActivity extends AppCompatActivity {
+public class VegeListActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_vegelist);
 
         ImageButton sendImageButton = findViewById(R.id.imageButton);
         sendImageButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(getApplication(), SubActivity.class);
+                Intent intent = new Intent(getApplication(), TomatoDetailActivity.class);
                 startActivity(intent);
             }
 
@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
         imageButton2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(getApplication(), SubActivity2.class);
+                Intent intent = new Intent(getApplication(), PotatoDetailActivity.class);
                 startActivity(intent);
             }
         });

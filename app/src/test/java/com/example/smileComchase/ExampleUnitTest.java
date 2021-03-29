@@ -1,4 +1,4 @@
-package com.example.shoppingpage;
+package com.example.smileComchase;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.example.shoppingpage;
+package com.example.smileComchase;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -6,16 +6,15 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
-import android.widget.ImageButton;
 
 
-public class SubActivity extends AppCompatActivity {
+public class TomatoDetailActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle saveInstanceState) {
         super.onCreate(saveInstanceState);
 
-        setContentView(R.layout.activity_sub_ha);
+        setContentView(R.layout.activity_tomato_detail);
 
         Button returnButton = findViewById(R.id.return_button);
         returnButton.setOnClickListener(new View.OnClickListener() {

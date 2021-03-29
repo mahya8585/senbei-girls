@@ -6,4 +6,10 @@
     <string name="result">You purchased a Tomato</string>
     <string name="pota_ex">HOKU HOKU NO POTATO</string>
     <string name="result_2">You purchased a poato</string>
+    <string name="goToFlowerTop">Flower Top</string>
+    <string name="GoToShoping">Shopping Page</string>
+    <string name="date">日付</string>
+    <string name="coment">〇〇でした</string>
+    <string name="memo">memo</string>
+    <string name="create_text_button">diary</string>
 </resources>

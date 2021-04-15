@@ -26,6 +26,13 @@
     <string name="potato">Potato</string>
     <string name="producer2">Saki Miyake</string>
     <string name="potato_ex">hokuhoku</string>
+    <string name="newbutton">new1</string>
+    <string name="newボタン" />
+    <string name="newbutton1">button</string>
+    <string name="opencamera">camera</string>
+    <string name="description">returnphotop</string>
+    <string name="write">writeblog</string>
+    <string name="submitbutton">submit</string>
 
 
 </resources>

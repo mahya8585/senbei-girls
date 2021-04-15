@@ -12,11 +12,20 @@
     <string name="coment">〇〇でした</string>
     <string name="memo">memo</string>
     <string name="create_text_button">diary</string>
-    <string name="newbutton">new1</string>
-    <string name="newボタン" />
-    <string name="newbutton1">button</string>
-    <string name="opencamera">camera</string>
-    <string name="description">returnphotop</string>
-    <string name="write">writeblog</string>
-    <string name="submitbutton">submit</string>
+    <string name="tomato">Tomato</string>
+    <string name="tomato_producer">tomato/ Tsuyoshi Tagawa</string>
+    <string name="potato_producer">Potato/ Saki Miyake</string>
+    <string name="broccoli_producer">Broccoli/ Sasaki Hosani</string>
+    <string name="bellpepper_producer">Bellpepper/ Kanno Kawabe</string>
+    <string name="eggplant_producer">Eggplant/ Chisato Todomori</string>
+    <string name="garlic_producer">Garlic/ Taro Urashima</string>
+    <string name="lettuce_producer">Lettuce/ Masuke Daishu</string>
+    <string name="carrot_producer">Carrot/ Sumika Murayama</string>
+    <string name="producer1">Tsuyoshi Tagawa</string>
+    <string name="tomato_fresh">Fresh tomatos</string>
+    <string name="potato">Potato</string>
+    <string name="producer2">Saki Miyake</string>
+    <string name="potato_ex">hokuhoku</string>
+
+
 </resources>

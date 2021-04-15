@@ -30,6 +30,7 @@
         <activity android:name=".VegeListActivity" />
         <activity android:name=".FlowerTopActivity" />
         <activity android:name=".DiaryActivity" />
+        <activity android:name=".RealmTestActivity" />
     </application>
 
 </manifest>

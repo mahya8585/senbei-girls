@@ -12,4 +12,11 @@
     <string name="coment">〇〇でした</string>
     <string name="memo">memo</string>
     <string name="create_text_button">diary</string>
+    <string name="newbutton">new1</string>
+    <string name="newボタン" />
+    <string name="newbutton1">button</string>
+    <string name="opencamera">camera</string>
+    <string name="description">returnphotop</string>
+    <string name="write">writeblog</string>
+    <string name="submitbutton">submit</string>
 </resources>
